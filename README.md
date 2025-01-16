@@ -40,3 +40,7 @@ python main.py
 ## Credits
 
 This project was heavily inspired by [HariTrigger/OllamaYTSumm](https://github.com/HariTrigger/OllamaYTSumm). The AI's system prompt and other elements were adapted from their work.
+
+## Contributions
+
+I would apritiate any contributions to helping me make this fun project.
